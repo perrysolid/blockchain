@@ -6,7 +6,7 @@ This is a sophisticated educational project that exemplifies cutting-edge blockc
 
 **A decentralized certificate issuing and verification system using NFTs, MetaMask, and QR codes** - This project allows educational institutions to issue tamper-proof certificates on the Ethereum blockchain and enables instant verification through QR codes or token verification.
 
-### Demo :  **[YouTube Video](https://www.youtube.com/watch?v=HsLQVXlGbLA)**
+
 
 ### 🎯 Project Purpose
 
@@ -168,8 +168,4 @@ Access the verification portal at `http://localhost:3000/verify`
 
 Each time you stop and restart the Hardhat node, you will need to redeploy the contract and update the address in the frontend. You also need to reimport the test accounts in MetaMask and RPC url. Though, you can see the same private keys and RPC to import the accounts again but it won't work. Because the hardhat node resets the state and every time create a new instance of the blockchain. So previous accounts and RPC will not persist.
 
-## 👨‍💻 Author
 
-This project was developed by **[@whiteblueskyss](https://github.com/whiteblueskyss)**.
-
----
